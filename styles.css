@@ -1,10 +1,27 @@
 p
 {
-color:blue;
-background:black;
+  font-size:25px;
+color: purple;
+}
+h2
+{
+  color:#ffe87c;
+}
+div
+{
+  background-color: yellow;
+
+}
+body
+{
+  background-color:#00abbb;
+}
+pre
+{
+  font-size: 25px;
+  color: #eac117;
 }
 h1
 {
-  color:lavender;
-  background:green;
+  background-color: lightgreen;
 }
