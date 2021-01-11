@@ -25,3 +25,26 @@ h1
 {
   background-color: lightgreen;
 }
+img
+{
+  border-top: purple;
+  border-radius: 22px;
+  border-style:dotted;
+
+  border-right:pink;
+  border-radius: 22px;
+  border-style:dotted;
+
+  border-left:green;
+  border-radius: 22px;
+  border-style:dotted;
+
+  border-bottom:green;
+  border-radius: 22px;
+  border-style:dotted;
+
+}
+ul
+{
+  font-style: Serif;
+}
